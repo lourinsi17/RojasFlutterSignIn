@@ -1,4 +1,4 @@
-# demo_screens
+# Firebase login
 
 A new Flutter project.
 
